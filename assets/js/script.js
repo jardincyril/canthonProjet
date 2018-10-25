@@ -13,3 +13,7 @@ $('.dropdown-button').dropdown({
 });
 $('.dropdown-button').dropdown('open');
 $('.dropdown-button').dropdown('close');
+//carousel
+$(document).ready(function(){
+      $('.carousel').carousel();
+    });
